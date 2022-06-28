@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_example_01_LISTBOX", "WF_example_01\WF_example_01_LISTBOX.csproj", "{76504B0D-B893-4FC2-9FB0-612C326A81B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_example_01_CHECKEDLISTBOX", "WF_example_01_CHECKEDLISTBOX\WF_example_01_CHECKEDLISTBOX.csproj", "{C8D0011B-9304-4CA3-9034-A75FE159BB51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_example_02_CHECKEDLISTBOX", "WF_example_01_CHECKEDLISTBOX\WF_example_02_CHECKEDLISTBOX.csproj", "{C8D0011B-9304-4CA3-9034-A75FE159BB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_example_03_COMBOBOX", "WF_example_03_COMBOBOX\WF_example_03_COMBOBOX.csproj", "{3D2AC79A-7B52-41EE-85BF-9E3937B233F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C8D0011B-9304-4CA3-9034-A75FE159BB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D0011B-9304-4CA3-9034-A75FE159BB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D0011B-9304-4CA3-9034-A75FE159BB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2AC79A-7B52-41EE-85BF-9E3937B233F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2AC79A-7B52-41EE-85BF-9E3937B233F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2AC79A-7B52-41EE-85BF-9E3937B233F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2AC79A-7B52-41EE-85BF-9E3937B233F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
