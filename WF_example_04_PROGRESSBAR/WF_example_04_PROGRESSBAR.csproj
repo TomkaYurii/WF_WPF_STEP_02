@@ -6,8 +6,4 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\WF_example_03_COMBOBOX\WF_example_03_COMBOBOX.csproj" />
-  </ItemGroup>
-
 </Project>
