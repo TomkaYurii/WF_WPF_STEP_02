@@ -508,5 +508,6 @@
         private MaterialSkin.Controls.MaterialCard materialCard5;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private MaterialSkin.Controls.MaterialCheckedListBox materialCheckedListBox1;
     }
 }

@@ -41,6 +41,7 @@
             this.checkedListBox1.Location = new System.Drawing.Point(12, 12);
             this.checkedListBox1.Name = "checkedListBox1";
             this.checkedListBox1.Size = new System.Drawing.Size(428, 136);
+            this.checkedListBox1.Sorted = true;
             this.checkedListBox1.TabIndex = 0;
             // 
             // listBox1
@@ -83,7 +84,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 337);
+            this.ClientSize = new System.Drawing.Size(800, 332);
             this.Controls.Add(this.btnAddSelected);
             this.Controls.Add(this.btnAddToCheckBox);
             this.Controls.Add(this.textBox1);
@@ -103,5 +104,6 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button btnAddToCheckBox;
         private System.Windows.Forms.Button btnAddSelected;
+        private System.Windows.Forms.CheckedListBox checkedListBox2;
     }
 }

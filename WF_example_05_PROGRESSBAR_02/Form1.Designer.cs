@@ -90,7 +90,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.ImeMode = System.Windows.Forms.ImeMode.Disable;
             this.Name = "Form1";
-            this.Opacity = 0.8D;
+            this.Opacity = 0.5D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.ResumeLayout(false);
